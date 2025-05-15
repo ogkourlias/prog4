@@ -1,0 +1,5208 @@
+poetry/tests/test_helpers.py
+    LOC: 46
+    LLOC: 24
+    SLOC: 34
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 12
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/conftest.py
+    LOC: 1029
+    LLOC: 561
+    SLOC: 683
+    Comments: 21
+    Single comments: 10
+    Multi: 84
+    Blank: 252
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 3%
+        (C + M % L): 10%
+poetry/tests/types.py
+    LOC: 160
+    LLOC: 77
+    SLOC: 122
+    Comments: 1
+    Single comments: 0
+    Multi: 0
+    Blank: 38
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 1%
+        (C + M % L): 1%
+poetry/tests/test_factory.py
+    LOC: 473
+    LLOC: 259
+    SLOC: 364
+    Comments: 6
+    Single comments: 4
+    Multi: 0
+    Blank: 105
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 2%
+        (C + M % L): 1%
+poetry/tests/test_conftest.py
+    LOC: 81
+    LLOC: 34
+    SLOC: 59
+    Comments: 4
+    Single comments: 4
+    Multi: 0
+    Blank: 18
+    - Comment Stats
+        (C % L): 5%
+        (C % S): 7%
+        (C + M % L): 5%
+poetry/tests/helpers.py
+    LOC: 379
+    LLOC: 226
+    SLOC: 262
+    Comments: 7
+    Single comments: 6
+    Multi: 12
+    Blank: 99
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 3%
+        (C + M % L): 5%
+poetry/tests/vcs/git/git_fixture.py
+    LOC: 17
+    LLOC: 16
+    SLOC: 11
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 6
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/vcs/git/conftest.py
+    LOC: 58
+    LLOC: 21
+    SLOC: 41
+    Comments: 3
+    Single comments: 4
+    Multi: 0
+    Blank: 13
+    - Comment Stats
+        (C % L): 5%
+        (C % S): 7%
+        (C + M % L): 5%
+poetry/tests/vcs/git/test_backend.py
+    LOC: 109
+    LLOC: 55
+    SLOC: 77
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 32
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/vcs/git/test_system.py
+    LOC: 55
+    LLOC: 31
+    SLOC: 38
+    Comments: 2
+    Single comments: 2
+    Multi: 0
+    Blank: 15
+    - Comment Stats
+        (C % L): 4%
+        (C % S): 5%
+        (C + M % L): 4%
+poetry/tests/packages/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/packages/test_transitive_package_info.py
+    LOC: 30
+    LLOC: 9
+    SLOC: 25
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 5
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/packages/test_direct_origin.py
+    LOC: 56
+    LLOC: 30
+    SLOC: 39
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 17
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/packages/test_locker.py
+    LOC: 1614
+    LLOC: 426
+    SLOC: 1292
+    Comments: 10
+    Single comments: 10
+    Multi: 18
+    Blank: 294
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 1%
+        (C + M % L): 2%
+poetry/tests/plugins/test_plugin_manager.py
+    LOC: 567
+    LLOC: 258
+    SLOC: 469
+    Comments: 5
+    Single comments: 4
+    Multi: 0
+    Blank: 94
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 1%
+        (C + M % L): 1%
+poetry/tests/plugins/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/json/test_schema_sources.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/json/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/json/test_schema.py
+    LOC: 75
+    LLOC: 45
+    SLOC: 58
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 17
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/masonry/builders/test_editable_builder.py
+    LOC: 412
+    LLOC: 194
+    SLOC: 302
+    Comments: 11
+    Single comments: 11
+    Multi: 0
+    Blank: 99
+    - Comment Stats
+        (C % L): 3%
+        (C % S): 4%
+        (C + M % L): 3%
+poetry/tests/masonry/builders/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/masonry/builders/fixtures/excluded_subpackage/example/__init__.py
+    LOC: 4
+    LLOC: 2
+    SLOC: 2
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 2
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/masonry/builders/fixtures/excluded_subpackage/example/test/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/masonry/builders/fixtures/excluded_subpackage/example/test/excluded.py
+    LOC: 7
+    LLOC: 4
+    SLOC: 4
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 3
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/puzzle/test_provider.py
+    LOC: 891
+    LLOC: 455
+    SLOC: 699
+    Comments: 8
+    Single comments: 3
+    Multi: 0
+    Blank: 189
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 1%
+        (C + M % L): 1%
+poetry/tests/puzzle/test_solver_internals.py
+    LOC: 609
+    LLOC: 314
+    SLOC: 520
+    Comments: 7
+    Single comments: 9
+    Multi: 0
+    Blank: 80
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 1%
+        (C + M % L): 1%
+poetry/tests/puzzle/test_transaction.py
+    LOC: 503
+    LLOC: 180
+    SLOC: 444
+    Comments: 0
+    Single comments: 0
+    Multi: 6
+    Blank: 53
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 1%
+poetry/tests/puzzle/test_solver.py
+    LOC: 5228
+    LLOC: 2415
+    SLOC: 4079
+    Comments: 77
+    Single comments: 48
+    Multi: 130
+    Blank: 971
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 2%
+        (C + M % L): 4%
+poetry/tests/puzzle/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/puzzle/conftest.py
+    LOC: 51
+    LLOC: 32
+    SLOC: 32
+    Comments: 1
+    Single comments: 1
+    Multi: 0
+    Blank: 18
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 3%
+        (C + M % L): 2%
+poetry/tests/fixtures/project_with_multi_constraints_dependency/project/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/project_with_extras/project_with_extras/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/simple_project_legacy/simple_project/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/directory/project_with_transitive_directory_dependencies/setup.py
+    LOC: 26
+    LLOC: 10
+    SLOC: 18
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 8
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/directory/project_with_transitive_directory_dependencies/project_with_transitive_directory_dependencies/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/directory/project_with_transitive_file_dependencies/project_with_transitive_file_dependencies/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/with_multiple_readme_files/my_package/__init__.py
+    LOC: 6
+    LLOC: 3
+    SLOC: 2
+    Comments: 0
+    Single comments: 1
+    Multi: 0
+    Blank: 3
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/excluded_subpackage/example/__init__.py
+    LOC: 4
+    LLOC: 2
+    SLOC: 2
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 2
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/excluded_subpackage/example/test/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/excluded_subpackage/example/test/excluded.py
+    LOC: 7
+    LLOC: 4
+    SLOC: 4
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 3
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/project_with_setup/setup.py
+    LOC: 19
+    LLOC: 4
+    SLOC: 14
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 5
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/project_with_setup/my_package/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/simple_project/simple_project/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/extended_with_no_setup/build.py
+    LOC: 32
+    LLOC: 23
+    SLOC: 21
+    Comments: 1
+    Single comments: 1
+    Multi: 0
+    Blank: 10
+    - Comment Stats
+        (C % L): 3%
+        (C % S): 5%
+        (C + M % L): 3%
+poetry/tests/fixtures/extended_with_no_setup/extended/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/with-include/my_module.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/with-include/for_wheel_only/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/with-include/src/src_package/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/with-include/extra_dir/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/with-include/extra_dir/sub_pkg/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/with-include/tests/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/with-include/package_with_include/__init__.py
+    LOC: 4
+    LLOC: 2
+    SLOC: 2
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 2
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/with_multiple_dist_dir/simple_project/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/project_with_setup_calls_script/setup.py
+    LOC: 23
+    LLOC: 7
+    SLOC: 17
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 6
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/project_with_setup_calls_script/my_package/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/build_systems/core_not_in_range/simple_project/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/build_systems/multiple_build_deps/simple_project/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/build_systems/has_build_script/simple_project/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/build_systems/core_in_range/simple_project/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/build_systems/core_from_git/simple_project/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/build_systems/no_build_system/simple_project/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/build_systems/no_core/simple_project/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/build_systems/no_build_backend/simple_project/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/scripts/scripts/return_code.py
+    LOC: 9
+    LLOC: 5
+    SLOC: 5
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 4
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/scripts/scripts/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/scripts/scripts/exit_code.py
+    LOC: 9
+    LLOC: 5
+    SLOC: 5
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 4
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/scripts/scripts/check_argv0.py
+    LOC: 23
+    LLOC: 16
+    SLOC: 16
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 7
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/build_system_requires_not_available/simple_project/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/git/github.com/demo/no-version/setup.py
+    LOC: 30
+    LLOC: 13
+    SLOC: 22
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 8
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/git/github.com/demo/no-version/demo/__init__.py
+    LOC: 4
+    LLOC: 2
+    SLOC: 2
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 2
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/git/github.com/demo/namespace-package-one/setup.py
+    LOC: 18
+    LLOC: 4
+    SLOC: 15
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 3
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/git/github.com/demo/namespace-package-one/namespace_package/__init__.py
+    LOC: 4
+    LLOC: 2
+    SLOC: 2
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 2
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/git/github.com/demo/namespace-package-one/namespace_package/one/__init__.py
+    LOC: 4
+    LLOC: 2
+    SLOC: 2
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 2
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/git/github.com/demo/no-dependencies/setup.py
+    LOC: 18
+    LLOC: 4
+    SLOC: 13
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 5
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/git/github.com/demo/no-dependencies/demo/__init__.py
+    LOC: 4
+    LLOC: 2
+    SLOC: 2
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 2
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/git/github.com/demo/poetry-plugin/poetry_plugin/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/git/github.com/demo/poetry-plugin2/subdir/poetry_plugin/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/git/github.com/demo/pyproject-demo/demo/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/git/github.com/demo/non-canonical-name/setup.py
+    LOC: 20
+    LLOC: 5
+    SLOC: 15
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 5
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/git/github.com/demo/non-canonical-name/demo/__init__.py
+    LOC: 4
+    LLOC: 2
+    SLOC: 2
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 2
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/git/github.com/demo/demo/demo/__init__.py
+    LOC: 4
+    LLOC: 2
+    SLOC: 2
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 2
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/git/github.com/demo/prerelease/prerelease/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/git/github.com/demo/subdirectories/two/two/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/git/github.com/demo/subdirectories/one-copy/one/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/git/github.com/demo/subdirectories/one/one/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/git/github.com/forked_demo/subdirectories/two/two/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/git/github.com/forked_demo/subdirectories/one-copy/one/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/git/github.com/forked_demo/subdirectories/one/one/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/extended_project/build.py
+    LOC: 12
+    LLOC: 8
+    SLOC: 8
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 4
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/extended_project/extended_project/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/extended_project_without_setup/build.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/extended_project_without_setup/extended_project/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/bad_scripts_project/too_many_colon/simple_project/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/fixtures/bad_scripts_project/no_colon/simple_project/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/mixology/test_incompatibility.py
+    LOC: 50
+    LLOC: 15
+    SLOC: 43
+    Comments: 1
+    Single comments: 0
+    Multi: 0
+    Blank: 7
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 2%
+        (C + M % L): 2%
+poetry/tests/mixology/helpers.py
+    LOC: 79
+    LLOC: 45
+    SLOC: 59
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 20
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/mixology/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/mixology/version_solver/__init__.py
+    LOC: 6
+    LLOC: 3
+    SLOC: 3
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 3
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/mixology/version_solver/test_python_constraint.py
+    LOC: 42
+    LLOC: 15
+    SLOC: 28
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 14
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/mixology/version_solver/conftest.py
+    LOC: 45
+    LLOC: 28
+    SLOC: 28
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 17
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/mixology/version_solver/test_dependency_cache.py
+    LOC: 186
+    LLOC: 105
+    SLOC: 135
+    Comments: 17
+    Single comments: 17
+    Multi: 0
+    Blank: 34
+    - Comment Stats
+        (C % L): 9%
+        (C % S): 13%
+        (C + M % L): 9%
+poetry/tests/mixology/version_solver/test_basic_graph.py
+    LOC: 132
+    LLOC: 75
+    SLOC: 106
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 26
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/mixology/version_solver/test_backtracking.py
+    LOC: 206
+    LLOC: 135
+    SLOC: 123
+    Comments: 14
+    Single comments: 12
+    Multi: 16
+    Blank: 55
+    - Comment Stats
+        (C % L): 7%
+        (C % S): 11%
+        (C + M % L): 15%
+poetry/tests/mixology/version_solver/test_unsolvable.py
+    LOC: 158
+    LLOC: 82
+    SLOC: 119
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 39
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/mixology/version_solver/test_with_lock.py
+    LOC: 240
+    LLOC: 144
+    SLOC: 192
+    Comments: 2
+    Single comments: 2
+    Multi: 0
+    Blank: 46
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 1%
+        (C + M % L): 1%
+poetry/tests/console/test_application_global_options.py
+    LOC: 264
+    LLOC: 121
+    SLOC: 189
+    Comments: 12
+    Single comments: 11
+    Multi: 0
+    Blank: 64
+    - Comment Stats
+        (C % L): 5%
+        (C % S): 6%
+        (C + M % L): 5%
+poetry/tests/console/conftest.py
+    LOC: 165
+    LLOC: 88
+    SLOC: 116
+    Comments: 7
+    Single comments: 7
+    Multi: 0
+    Blank: 42
+    - Comment Stats
+        (C % L): 4%
+        (C % S): 6%
+        (C + M % L): 4%
+poetry/tests/console/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/console/test_exections_poetry_runtime_error.py
+    LOC: 148
+    LLOC: 32
+    SLOC: 131
+    Comments: 9
+    Single comments: 4
+    Multi: 0
+    Blank: 13
+    - Comment Stats
+        (C % L): 6%
+        (C % S): 7%
+        (C + M % L): 6%
+poetry/tests/console/test_exceptions_console_message.py
+    LOC: 68
+    LLOC: 23
+    SLOC: 54
+    Comments: 4
+    Single comments: 4
+    Multi: 0
+    Blank: 10
+    - Comment Stats
+        (C % L): 6%
+        (C % S): 7%
+        (C + M % L): 6%
+poetry/tests/console/test_application_command_not_found.py
+    LOC: 63
+    LLOC: 27
+    SLOC: 48
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 15
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/console/test_application_removed_commands.py
+    LOC: 71
+    LLOC: 36
+    SLOC: 48
+    Comments: 4
+    Single comments: 4
+    Multi: 0
+    Blank: 19
+    - Comment Stats
+        (C % L): 6%
+        (C % S): 8%
+        (C + M % L): 6%
+poetry/tests/console/test_application.py
+    LOC: 247
+    LLOC: 124
+    SLOC: 182
+    Comments: 3
+    Single comments: 3
+    Multi: 0
+    Blank: 62
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 2%
+        (C + M % L): 1%
+poetry/tests/console/commands/test_add.py
+    LOC: 1773
+    LLOC: 764
+    SLOC: 1306
+    Comments: 5
+    Single comments: 6
+    Multi: 4
+    Blank: 457
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 1%
+poetry/tests/console/commands/test_build.py
+    LOC: 304
+    LLOC: 150
+    SLOC: 228
+    Comments: 4
+    Single comments: 3
+    Multi: 0
+    Blank: 73
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 2%
+        (C + M % L): 1%
+poetry/tests/console/commands/test_publish.py
+    LOC: 228
+    LLOC: 101
+    SLOC: 168
+    Comments: 1
+    Single comments: 1
+    Multi: 0
+    Blank: 59
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 1%
+        (C + M % L): 0%
+poetry/tests/console/commands/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/console/commands/test_install.py
+    LOC: 571
+    LLOC: 237
+    SLOC: 435
+    Comments: 1
+    Single comments: 0
+    Multi: 24
+    Blank: 112
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 4%
+poetry/tests/console/commands/test_version.py
+    LOC: 134
+    LLOC: 56
+    SLOC: 103
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 31
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/console/commands/test_search.py
+    LOC: 146
+    LLOC: 48
+    SLOC: 104
+    Comments: 2
+    Single comments: 2
+    Multi: 0
+    Blank: 40
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 2%
+        (C + M % L): 1%
+poetry/tests/console/commands/test_init.py
+    LOC: 1145
+    LLOC: 275
+    SLOC: 966
+    Comments: 193
+    Single comments: 1
+    Multi: 9
+    Blank: 169
+    - Comment Stats
+        (C % L): 17%
+        (C % S): 20%
+        (C + M % L): 18%
+poetry/tests/console/commands/conftest.py
+    LOC: 57
+    LLOC: 11
+    SLOC: 49
+    Comments: 9
+    Single comments: 0
+    Multi: 0
+    Blank: 8
+    - Comment Stats
+        (C % L): 16%
+        (C % S): 18%
+        (C + M % L): 16%
+poetry/tests/console/commands/test_show.py
+    LOC: 2393
+    LLOC: 624
+    SLOC: 2055
+    Comments: 14
+    Single comments: 14
+    Multi: 0
+    Blank: 324
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 1%
+        (C + M % L): 1%
+poetry/tests/console/commands/test_remove.py
+    LOC: 493
+    LLOC: 231
+    SLOC: 368
+    Comments: 4
+    Single comments: 4
+    Multi: 12
+    Blank: 109
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 1%
+        (C + M % L): 3%
+poetry/tests/console/commands/test_about.py
+    LOC: 35
+    LLOC: 14
+    SLOC: 21
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 14
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/console/commands/test_lock.py
+    LOC: 267
+    LLOC: 115
+    SLOC: 201
+    Comments: 5
+    Single comments: 5
+    Multi: 6
+    Blank: 55
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 2%
+        (C + M % L): 4%
+poetry/tests/console/commands/test_config.py
+    LOC: 782
+    LLOC: 293
+    SLOC: 617
+    Comments: 7
+    Single comments: 3
+    Multi: 0
+    Blank: 162
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 1%
+        (C + M % L): 1%
+poetry/tests/console/commands/test_check.py
+    LOC: 311
+    LLOC: 100
+    SLOC: 247
+    Comments: 2
+    Single comments: 2
+    Multi: 0
+    Blank: 62
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 1%
+        (C + M % L): 1%
+poetry/tests/console/commands/test_new.py
+    LOC: 236
+    LLOC: 76
+    SLOC: 200
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 36
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/console/commands/test_run.py
+    LOC: 269
+    LLOC: 104
+    SLOC: 192
+    Comments: 8
+    Single comments: 8
+    Multi: 18
+    Blank: 51
+    - Comment Stats
+        (C % L): 3%
+        (C % S): 4%
+        (C + M % L): 10%
+poetry/tests/console/commands/test_sync.py
+    LOC: 45
+    LLOC: 23
+    SLOC: 25
+    Comments: 5
+    Single comments: 3
+    Multi: 0
+    Blank: 17
+    - Comment Stats
+        (C % L): 11%
+        (C % S): 20%
+        (C + M % L): 11%
+poetry/tests/console/commands/test_update.py
+    LOC: 102
+    LLOC: 42
+    SLOC: 75
+    Comments: 0
+    Single comments: 0
+    Multi: 3
+    Blank: 24
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 3%
+poetry/tests/console/commands/self/test_update.py
+    LOC: 80
+    LLOC: 35
+    SLOC: 54
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 26
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/console/commands/self/test_add_plugins.py
+    LOC: 313
+    LLOC: 91
+    SLOC: 222
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 91
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/console/commands/self/test_sync.py
+    LOC: 45
+    LLOC: 23
+    SLOC: 25
+    Comments: 5
+    Single comments: 3
+    Multi: 0
+    Blank: 17
+    - Comment Stats
+        (C % L): 11%
+        (C % S): 20%
+        (C + M % L): 11%
+poetry/tests/console/commands/self/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/console/commands/self/test_show_plugins.py
+    LOC: 226
+    LLOC: 95
+    SLOC: 174
+    Comments: 3
+    Single comments: 0
+    Multi: 0
+    Blank: 52
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 2%
+        (C + M % L): 1%
+poetry/tests/console/commands/self/test_install.py
+    LOC: 74
+    LLOC: 36
+    SLOC: 56
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 18
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/console/commands/self/conftest.py
+    LOC: 87
+    LLOC: 42
+    SLOC: 66
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 21
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/console/commands/self/test_remove_plugins.py
+    LOC: 106
+    LLOC: 44
+    SLOC: 76
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 30
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/console/commands/self/utils.py
+    LOC: 36
+    LLOC: 23
+    SLOC: 24
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 12
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/console/commands/self/test_self_command.py
+    LOC: 53
+    LLOC: 29
+    SLOC: 40
+    Comments: 1
+    Single comments: 0
+    Multi: 0
+    Blank: 13
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 2%
+        (C + M % L): 2%
+poetry/tests/console/commands/env/test_remove.py
+    LOC: 168
+    LLOC: 88
+    SLOC: 128
+    Comments: 1
+    Single comments: 1
+    Multi: 0
+    Blank: 39
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 1%
+        (C + M % L): 1%
+poetry/tests/console/commands/env/test_info.py
+    LOC: 66
+    LLOC: 29
+    SLOC: 46
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 20
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/console/commands/env/test_use.py
+    LOC: 161
+    LLOC: 72
+    SLOC: 125
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 36
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/console/commands/env/test_list.py
+    LOC: 78
+    LLOC: 42
+    SLOC: 57
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 21
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/console/commands/env/test_activate.py
+    LOC: 95
+    LLOC: 37
+    SLOC: 74
+    Comments: 1
+    Single comments: 1
+    Multi: 0
+    Blank: 20
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 1%
+        (C + M % L): 1%
+poetry/tests/console/commands/env/helpers.py
+    LOC: 51
+    LLOC: 29
+    SLOC: 34
+    Comments: 1
+    Single comments: 1
+    Multi: 0
+    Blank: 16
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 3%
+        (C + M % L): 2%
+poetry/tests/console/commands/env/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/console/commands/env/conftest.py
+    LOC: 95
+    LLOC: 64
+    SLOC: 69
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 26
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/console/commands/cache/test_clear.py
+    LOC: 89
+    LLOC: 43
+    SLOC: 64
+    Comments: 2
+    Single comments: 2
+    Multi: 0
+    Blank: 23
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 3%
+        (C + M % L): 2%
+poetry/tests/console/commands/cache/conftest.py
+    LOC: 62
+    LLOC: 33
+    SLOC: 42
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 20
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/console/commands/cache/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/console/commands/cache/test_list.py
+    LOC: 41
+    LLOC: 18
+    SLOC: 25
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 16
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/console/commands/debug/test_resolve.py
+    LOC: 80
+    LLOC: 33
+    SLOC: 50
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 30
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/console/commands/debug/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/console/commands/source/test_add.py
+    LOC: 185
+    LLOC: 76
+    SLOC: 146
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 39
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/console/commands/source/test_remove.py
+    LOC: 101
+    LLOC: 46
+    SLOC: 76
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 25
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/console/commands/source/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/console/commands/source/test_show.py
+    LOC: 200
+    LLOC: 73
+    SLOC: 155
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 45
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/console/commands/source/conftest.py
+    LOC: 160
+    LLOC: 64
+    SLOC: 108
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 52
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/console/commands/python/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/console/commands/python/test_python_install.py
+    LOC: 175
+    LLOC: 92
+    SLOC: 120
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 55
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/console/commands/python/test_python_remove.py
+    LOC: 111
+    LLOC: 53
+    SLOC: 81
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 30
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/console/commands/python/test_python_list.py
+    LOC: 141
+    LLOC: 66
+    SLOC: 100
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 41
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/console/logging/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/console/logging/test_io_formatter.py
+    LOC: 85
+    LLOC: 25
+    SLOC: 74
+    Comments: 10
+    Single comments: 0
+    Multi: 0
+    Blank: 11
+    - Comment Stats
+        (C % L): 12%
+        (C % S): 14%
+        (C + M % L): 12%
+poetry/tests/console/logging/formatters/test_builder_formatter.py
+    LOC: 29
+    LLOC: 7
+    SLOC: 25
+    Comments: 4
+    Single comments: 0
+    Multi: 0
+    Blank: 4
+    - Comment Stats
+        (C % L): 14%
+        (C % S): 16%
+        (C + M % L): 14%
+poetry/tests/console/logging/formatters/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/publishing/test_uploader.py
+    LOC: 158
+    LLOC: 60
+    SLOC: 111
+    Comments: 3
+    Single comments: 3
+    Multi: 0
+    Blank: 44
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 3%
+        (C + M % L): 2%
+poetry/tests/publishing/test_publisher.py
+    LOC: 207
+    LLOC: 104
+    SLOC: 164
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 43
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/publishing/test_hash_manager.py
+    LOC: 83
+    LLOC: 34
+    SLOC: 60
+    Comments: 2
+    Single comments: 2
+    Multi: 0
+    Blank: 21
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 3%
+        (C + M % L): 2%
+poetry/tests/publishing/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/installation/conftest.py
+    LOC: 34
+    LLOC: 17
+    SLOC: 26
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 8
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/installation/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/installation/test_executor.py
+    LOC: 1781
+    LLOC: 631
+    SLOC: 1487
+    Comments: 22
+    Single comments: 16
+    Multi: 0
+    Blank: 278
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 1%
+        (C + M % L): 1%
+poetry/tests/installation/test_wheel_installer.py
+    LOC: 83
+    LLOC: 57
+    SLOC: 59
+    Comments: 1
+    Single comments: 0
+    Multi: 0
+    Blank: 24
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 2%
+        (C + M % L): 1%
+poetry/tests/installation/test_chooser_errors.py
+    LOC: 90
+    LLOC: 14
+    SLOC: 66
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 24
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/installation/test_chef.py
+    LOC: 171
+    LLOC: 75
+    SLOC: 122
+    Comments: 6
+    Single comments: 5
+    Multi: 3
+    Blank: 41
+    - Comment Stats
+        (C % L): 4%
+        (C % S): 5%
+        (C + M % L): 5%
+poetry/tests/installation/test_installer.py
+    LOC: 3325
+    LLOC: 1357
+    SLOC: 2783
+    Comments: 49
+    Single comments: 46
+    Multi: 41
+    Blank: 455
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 2%
+        (C + M % L): 3%
+poetry/tests/installation/test_chooser.py
+    LOC: 375
+    LLOC: 125
+    SLOC: 320
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 55
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/inspection/test_info.py
+    LOC: 400
+    LLOC: 201
+    SLOC: 306
+    Comments: 3
+    Single comments: 4
+    Multi: 4
+    Blank: 86
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 1%
+        (C + M % L): 2%
+poetry/tests/inspection/test_lazy_wheel.py
+    LOC: 477
+    LLOC: 219
+    SLOC: 381
+    Comments: 23
+    Single comments: 15
+    Multi: 0
+    Blank: 81
+    - Comment Stats
+        (C % L): 5%
+        (C % S): 6%
+        (C + M % L): 5%
+poetry/tests/inspection/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/pyproject/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/pyproject/test_pyproject_toml_file.py
+    LOC: 23
+    LLOC: 13
+    SLOC: 13
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 10
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/pyproject/conftest.py
+    LOC: 43
+    LLOC: 23
+    SLOC: 32
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 11
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/pyproject/test_pyproject_toml.py
+    LOC: 47
+    LLOC: 29
+    SLOC: 31
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 16
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/repositories/test_installed_repository.py
+    LOC: 515
+    LLOC: 279
+    SLOC: 399
+    Comments: 12
+    Single comments: 11
+    Multi: 7
+    Blank: 98
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 3%
+        (C + M % L): 4%
+poetry/tests/repositories/test_lockfile_repository.py
+    LOC: 39
+    LLOC: 21
+    SLOC: 27
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 12
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/repositories/test_repository_pool.py
+    LOC: 284
+    LLOC: 188
+    SLOC: 205
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 79
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/repositories/test_pypi_repository.py
+    LOC: 391
+    LLOC: 170
+    SLOC: 299
+    Comments: 13
+    Single comments: 4
+    Multi: 0
+    Blank: 88
+    - Comment Stats
+        (C % L): 3%
+        (C % S): 4%
+        (C + M % L): 3%
+poetry/tests/repositories/test_repository.py
+    LOC: 111
+    LLOC: 44
+    SLOC: 86
+    Comments: 3
+    Single comments: 2
+    Multi: 0
+    Blank: 23
+    - Comment Stats
+        (C % L): 3%
+        (C % S): 3%
+        (C + M % L): 3%
+poetry/tests/repositories/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/repositories/test_http_repository.py
+    LOC: 245
+    LLOC: 131
+    SLOC: 175
+    Comments: 6
+    Single comments: 6
+    Multi: 17
+    Blank: 47
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 3%
+        (C + M % L): 9%
+poetry/tests/repositories/test_single_page_repository.py
+    LOC: 79
+    LLOC: 47
+    SLOC: 53
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 26
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/repositories/test_legacy_repository.py
+    LOC: 634
+    LLOC: 286
+    SLOC: 486
+    Comments: 6
+    Single comments: 1
+    Multi: 0
+    Blank: 147
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 1%
+        (C + M % L): 1%
+poetry/tests/repositories/conftest.py
+    LOC: 31
+    LLOC: 11
+    SLOC: 24
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 7
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/repositories/parsers/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/repositories/parsers/test_pypi_search_parser.py
+    LOC: 131
+    LLOC: 14
+    SLOC: 122
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 9
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/repositories/parsers/test_html_page_parser.py
+    LOC: 69
+    LLOC: 20
+    SLOC: 56
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 13
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/repositories/fixtures/python_hosted.py
+    LOC: 77
+    LLOC: 33
+    SLOC: 58
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 19
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/repositories/fixtures/__init__.py
+    LOC: 9
+    LLOC: 2
+    SLOC: 7
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 2
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/repositories/fixtures/distribution_hashes.py
+    LOC: 334
+    LLOC: 19
+    SLOC: 321
+    Comments: 1
+    Single comments: 1
+    Multi: 0
+    Blank: 12
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/repositories/fixtures/pypi.py
+    LOC: 168
+    LLOC: 76
+    SLOC: 130
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 38
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/repositories/fixtures/legacy.py
+    LOC: 157
+    LLOC: 64
+    SLOC: 114
+    Comments: 0
+    Single comments: 0
+    Multi: 4
+    Blank: 39
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 3%
+poetry/tests/repositories/fixtures/pypi.org/generate.py
+    LOC: 755
+    LLOC: 328
+    SLOC: 579
+    Comments: 14
+    Single comments: 3
+    Multi: 26
+    Blank: 147
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 2%
+        (C + M % L): 5%
+poetry/tests/repositories/link_sources/test_base.py
+    LOC: 101
+    LLOC: 35
+    SLOC: 84
+    Comments: 2
+    Single comments: 0
+    Multi: 0
+    Blank: 17
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 2%
+        (C + M % L): 2%
+poetry/tests/repositories/link_sources/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/repositories/link_sources/test_html.py
+    LOC: 169
+    LLOC: 41
+    SLOC: 152
+    Comments: 3
+    Single comments: 0
+    Multi: 0
+    Blank: 17
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 2%
+        (C + M % L): 2%
+poetry/tests/repositories/link_sources/test_json.py
+    LOC: 79
+    LLOC: 12
+    SLOC: 74
+    Comments: 3
+    Single comments: 0
+    Multi: 0
+    Blank: 5
+    - Comment Stats
+        (C % L): 4%
+        (C % S): 4%
+        (C + M % L): 4%
+poetry/tests/integration/conftest.py
+    LOC: 14
+    LLOC: 8
+    SLOC: 8
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 6
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/integration/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/integration/test_utils_vcs_git.py
+    LOC: 444
+    LLOC: 220
+    SLOC: 318
+    Comments: 12
+    Single comments: 11
+    Multi: 0
+    Blank: 115
+    - Comment Stats
+        (C % L): 3%
+        (C % S): 4%
+        (C + M % L): 3%
+poetry/tests/utils/test_helpers.py
+    LOC: 345
+    LLOC: 149
+    SLOC: 275
+    Comments: 3
+    Single comments: 3
+    Multi: 0
+    Blank: 67
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 1%
+        (C + M % L): 1%
+poetry/tests/utils/test_python_manager.py
+    LOC: 141
+    LLOC: 70
+    SLOC: 98
+    Comments: 7
+    Single comments: 8
+    Multi: 0
+    Blank: 35
+    - Comment Stats
+        (C % L): 5%
+        (C % S): 7%
+        (C + M % L): 5%
+poetry/tests/utils/test_dependency_specification.py
+    LOC: 192
+    LLOC: 23
+    SLOC: 176
+    Comments: 4
+    Single comments: 2
+    Multi: 0
+    Blank: 14
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 2%
+        (C + M % L): 2%
+poetry/tests/utils/test_authenticator.py
+    LOC: 725
+    LLOC: 300
+    SLOC: 582
+    Comments: 1
+    Single comments: 1
+    Multi: 0
+    Blank: 142
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/utils/test_threading.py
+    LOC: 145
+    LLOC: 75
+    SLOC: 109
+    Comments: 4
+    Single comments: 1
+    Multi: 0
+    Blank: 35
+    - Comment Stats
+        (C % L): 3%
+        (C % S): 4%
+        (C + M % L): 3%
+poetry/tests/utils/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/utils/conftest.py
+    LOC: 21
+    LLOC: 9
+    SLOC: 15
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 6
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/utils/test_isolated_build.py
+    LOC: 130
+    LLOC: 69
+    SLOC: 101
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 29
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/utils/test_password_manager.py
+    LOC: 408
+    LLOC: 204
+    SLOC: 293
+    Comments: 3
+    Single comments: 3
+    Multi: 0
+    Blank: 112
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 1%
+        (C + M % L): 1%
+poetry/tests/utils/test_extras.py
+    LOC: 75
+    LLOC: 20
+    SLOC: 64
+    Comments: 7
+    Single comments: 1
+    Multi: 0
+    Blank: 10
+    - Comment Stats
+        (C % L): 9%
+        (C % S): 11%
+        (C + M % L): 9%
+poetry/tests/utils/test_patterns.py
+    LOC: 85
+    LLOC: 17
+    SLOC: 77
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 8
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/utils/test_cache.py
+    LOC: 369
+    LLOC: 171
+    SLOC: 280
+    Comments: 13
+    Single comments: 4
+    Multi: 0
+    Blank: 85
+    - Comment Stats
+        (C % L): 4%
+        (C % S): 5%
+        (C + M % L): 4%
+poetry/tests/utils/test_pip.py
+    LOC: 40
+    LLOC: 20
+    SLOC: 27
+    Comments: 1
+    Single comments: 0
+    Multi: 0
+    Blank: 13
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 4%
+        (C + M % L): 2%
+poetry/tests/utils/env/conftest.py
+    LOC: 23
+    LLOC: 14
+    SLOC: 14
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 9
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/utils/env/test_env_manager.py
+    LOC: 1304
+    LLOC: 613
+    SLOC: 1003
+    Comments: 12
+    Single comments: 10
+    Multi: 0
+    Blank: 291
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 1%
+        (C + M % L): 1%
+poetry/tests/utils/env/test_env_site_packages.py
+    LOC: 49
+    LLOC: 30
+    SLOC: 30
+    Comments: 1
+    Single comments: 1
+    Multi: 0
+    Blank: 18
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 3%
+        (C + M % L): 2%
+poetry/tests/utils/env/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/utils/env/test_env.py
+    LOC: 562
+    LLOC: 293
+    SLOC: 430
+    Comments: 20
+    Single comments: 12
+    Multi: 0
+    Blank: 120
+    - Comment Stats
+        (C % L): 4%
+        (C % S): 5%
+        (C + M % L): 4%
+poetry/tests/utils/env/test_system_env.py
+    LOC: 19
+    LLOC: 12
+    SLOC: 12
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 7
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/utils/env/python/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/utils/env/python/test_python_installer.py
+    LOC: 108
+    LLOC: 60
+    SLOC: 81
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 27
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/utils/env/python/test_manager.py
+    LOC: 137
+    LLOC: 65
+    SLOC: 107
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 30
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/utils/env/python/test_python_providers.py
+    LOC: 57
+    LLOC: 31
+    SLOC: 41
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 16
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/config/test_source.py
+    LOC: 59
+    LLOC: 20
+    SLOC: 49
+    Comments: 2
+    Single comments: 0
+    Multi: 0
+    Blank: 10
+    - Comment Stats
+        (C % L): 3%
+        (C % S): 4%
+        (C + M % L): 3%
+poetry/tests/config/test_file_config_source.py
+    LOC: 91
+    LLOC: 47
+    SLOC: 65
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 26
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/config/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/config/test_config_source.py
+    LOC: 158
+    LLOC: 49
+    SLOC: 129
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 29
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/config/test_dict_config_source.py
+    LOC: 68
+    LLOC: 35
+    SLOC: 50
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 18
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/tests/config/test_config.py
+    LOC: 165
+    LLOC: 70
+    SLOC: 132
+    Comments: 4
+    Single comments: 0
+    Multi: 0
+    Blank: 33
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 3%
+        (C + M % L): 2%
+poetry/src/poetry/poetry.py
+    LOC: 94
+    LLOC: 57
+    SLOC: 69
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 25
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/__main__.py
+    LOC: 9
+    LLOC: 5
+    SLOC: 5
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 4
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/exceptions.py
+    LOC: 5
+    LLOC: 3
+    SLOC: 3
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 2
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/__version__.py
+    LOC: 6
+    LLOC: 3
+    SLOC: 3
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 3
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/factory.py
+    LOC: 355
+    LLOC: 209
+    SLOC: 266
+    Comments: 6
+    Single comments: 6
+    Multi: 3
+    Blank: 80
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 2%
+        (C + M % L): 3%
+poetry/src/poetry/locations.py
+    LOC: 25
+    LLOC: 13
+    SLOC: 16
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 9
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/repositories/pypi_repository.py
+    LOC: 242
+    LLOC: 126
+    SLOC: 178
+    Comments: 11
+    Single comments: 11
+    Multi: 8
+    Blank: 45
+    - Comment Stats
+        (C % L): 5%
+        (C % S): 6%
+        (C + M % L): 8%
+poetry/src/poetry/repositories/__init__.py
+    LOC: 7
+    LLOC: 4
+    SLOC: 4
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 3
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/repositories/installed_repository.py
+    LOC: 310
+    LLOC: 164
+    SLOC: 233
+    Comments: 21
+    Single comments: 13
+    Multi: 15
+    Blank: 49
+    - Comment Stats
+        (C % L): 7%
+        (C % S): 9%
+        (C + M % L): 12%
+poetry/src/poetry/repositories/repository_pool.py
+    LOC: 183
+    LLOC: 118
+    SLOC: 135
+    Comments: 2
+    Single comments: 2
+    Multi: 10
+    Blank: 36
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 1%
+        (C + M % L): 7%
+poetry/src/poetry/repositories/lockfile_repository.py
+    LOC: 22
+    LLOC: 11
+    SLOC: 10
+    Comments: 0
+    Single comments: 0
+    Multi: 4
+    Blank: 8
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 18%
+poetry/src/poetry/repositories/single_page_repository.py
+    LOC: 22
+    LLOC: 14
+    SLOC: 13
+    Comments: 0
+    Single comments: 0
+    Multi: 3
+    Blank: 6
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 14%
+poetry/src/poetry/repositories/cached_repository.py
+    LOC: 72
+    LLOC: 41
+    SLOC: 48
+    Comments: 1
+    Single comments: 1
+    Multi: 5
+    Blank: 18
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 2%
+        (C + M % L): 8%
+poetry/src/poetry/repositories/repository.py
+    LOC: 111
+    LLOC: 68
+    SLOC: 81
+    Comments: 4
+    Single comments: 3
+    Multi: 0
+    Blank: 27
+    - Comment Stats
+        (C % L): 4%
+        (C % S): 5%
+        (C + M % L): 4%
+poetry/src/poetry/repositories/exceptions.py
+    LOC: 13
+    LLOC: 7
+    SLOC: 7
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 6
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/repositories/http_repository.py
+    LOC: 432
+    LLOC: 245
+    SLOC: 336
+    Comments: 35
+    Single comments: 35
+    Multi: 0
+    Blank: 61
+    - Comment Stats
+        (C % L): 8%
+        (C % S): 10%
+        (C + M % L): 8%
+poetry/src/poetry/repositories/abstract_repository.py
+    LOC: 29
+    LLOC: 23
+    SLOC: 20
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 9
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/repositories/legacy_repository.py
+    LOC: 159
+    LLOC: 73
+    SLOC: 117
+    Comments: 0
+    Single comments: 0
+    Multi: 12
+    Blank: 30
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 8%
+poetry/src/poetry/repositories/link_sources/base.py
+    LOC: 126
+    LLOC: 89
+    SLOC: 95
+    Comments: 2
+    Single comments: 2
+    Multi: 3
+    Blank: 26
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 2%
+        (C + M % L): 4%
+poetry/src/poetry/repositories/link_sources/html.py
+    LOC: 103
+    LLOC: 75
+    SLOC: 72
+    Comments: 2
+    Single comments: 2
+    Multi: 5
+    Blank: 24
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 3%
+        (C + M % L): 7%
+poetry/src/poetry/repositories/link_sources/json.py
+    LOC: 55
+    LLOC: 39
+    SLOC: 38
+    Comments: 2
+    Single comments: 3
+    Multi: 0
+    Blank: 14
+    - Comment Stats
+        (C % L): 4%
+        (C % S): 5%
+        (C + M % L): 4%
+poetry/src/poetry/repositories/link_sources/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/repositories/parsers/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/repositories/parsers/pypi_search_parser.py
+    LOC: 70
+    LLOC: 54
+    SLOC: 53
+    Comments: 3
+    Single comments: 4
+    Multi: 0
+    Blank: 13
+    - Comment Stats
+        (C % L): 4%
+        (C % S): 6%
+        (C + M % L): 4%
+poetry/src/poetry/repositories/parsers/html_page_parser.py
+    LOC: 18
+    LLOC: 16
+    SLOC: 14
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 4
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/publishing/__init__.py
+    LOC: 6
+    LLOC: 3
+    SLOC: 3
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 3
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/publishing/hash_manager.py
+    LOC: 65
+    LLOC: 46
+    SLOC: 47
+    Comments: 2
+    Single comments: 2
+    Multi: 0
+    Blank: 16
+    - Comment Stats
+        (C % L): 3%
+        (C % S): 4%
+        (C + M % L): 3%
+poetry/src/poetry/publishing/publisher.py
+    LOC: 92
+    LLOC: 49
+    SLOC: 69
+    Comments: 2
+    Single comments: 2
+    Multi: 3
+    Blank: 18
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 3%
+        (C + M % L): 5%
+poetry/src/poetry/publishing/uploader.py
+    LOC: 338
+    LLOC: 178
+    SLOC: 271
+    Comments: 14
+    Single comments: 3
+    Multi: 3
+    Blank: 61
+    - Comment Stats
+        (C % L): 4%
+        (C % S): 5%
+        (C + M % L): 5%
+poetry/src/poetry/installation/chooser.py
+    LOC: 314
+    LLOC: 142
+    SLOC: 233
+    Comments: 4
+    Single comments: 3
+    Multi: 29
+    Blank: 49
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 2%
+        (C + M % L): 11%
+poetry/src/poetry/installation/executor.py
+    LOC: 941
+    LLOC: 561
+    SLOC: 728
+    Comments: 43
+    Single comments: 42
+    Multi: 9
+    Blank: 162
+    - Comment Stats
+        (C % L): 5%
+        (C % S): 6%
+        (C + M % L): 6%
+poetry/src/poetry/installation/__init__.py
+    LOC: 6
+    LLOC: 3
+    SLOC: 3
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 3
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/installation/wheel_installer.py
+    LOC: 116
+    LLOC: 68
+    SLOC: 83
+    Comments: 8
+    Single comments: 8
+    Multi: 0
+    Blank: 25
+    - Comment Stats
+        (C % L): 7%
+        (C % S): 10%
+        (C + M % L): 7%
+poetry/src/poetry/installation/chef.py
+    LOC: 125
+    LLOC: 56
+    SLOC: 99
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 26
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/installation/installer.py
+    LOC: 390
+    LLOC: 206
+    SLOC: 286
+    Comments: 17
+    Single comments: 17
+    Multi: 3
+    Blank: 84
+    - Comment Stats
+        (C % L): 4%
+        (C % S): 6%
+        (C + M % L): 5%
+poetry/src/poetry/installation/operations/update.py
+    LOC: 55
+    LLOC: 30
+    SLOC: 42
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 13
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/installation/operations/uninstall.py
+    LOC: 41
+    LLOC: 19
+    SLOC: 30
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 11
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/installation/operations/operation.py
+    LOC: 53
+    LLOC: 42
+    SLOC: 38
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 15
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/installation/operations/__init__.py
+    LOC: 8
+    LLOC: 5
+    SLOC: 5
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 3
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/installation/operations/install.py
+    LOC: 38
+    LLOC: 19
+    SLOC: 27
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 11
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/puzzle/__init__.py
+    LOC: 6
+    LLOC: 3
+    SLOC: 3
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 3
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/puzzle/transaction.py
+    LOC: 187
+    LLOC: 101
+    SLOC: 155
+    Comments: 14
+    Single comments: 5
+    Multi: 0
+    Blank: 27
+    - Comment Stats
+        (C % L): 7%
+        (C % S): 9%
+        (C + M % L): 7%
+poetry/src/poetry/puzzle/exceptions.py
+    LOC: 30
+    LLOC: 19
+    SLOC: 19
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 11
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/puzzle/provider.py
+    LOC: 1026
+    LLOC: 546
+    SLOC: 717
+    Comments: 105
+    Single comments: 105
+    Multi: 55
+    Blank: 149
+    - Comment Stats
+        (C % L): 10%
+        (C % S): 15%
+        (C + M % L): 16%
+poetry/src/poetry/puzzle/solver.py
+    LOC: 507
+    LLOC: 287
+    SLOC: 408
+    Comments: 26
+    Single comments: 23
+    Multi: 4
+    Blank: 72
+    - Comment Stats
+        (C % L): 5%
+        (C % S): 6%
+        (C + M % L): 6%
+poetry/src/poetry/mixology/failure.py
+    LOC: 306
+    LLOC: 161
+    SLOC: 260
+    Comments: 1
+    Single comments: 1
+    Multi: 0
+    Blank: 45
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/mixology/assignment.py
+    LOC: 62
+    LLOC: 31
+    SLOC: 44
+    Comments: 0
+    Single comments: 0
+    Multi: 3
+    Blank: 15
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 5%
+poetry/src/poetry/mixology/result.py
+    LOC: 28
+    LLOC: 16
+    SLOC: 21
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 7
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/mixology/set_relation.py
+    LOC: 13
+    LLOC: 6
+    SLOC: 5
+    Comments: 0
+    Single comments: 0
+    Multi: 3
+    Blank: 5
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 23%
+poetry/src/poetry/mixology/version_solver.py
+    LOC: 656
+    LLOC: 279
+    SLOC: 356
+    Comments: 108
+    Single comments: 108
+    Multi: 82
+    Blank: 110
+    - Comment Stats
+        (C % L): 16%
+        (C % S): 30%
+        (C + M % L): 29%
+poetry/src/poetry/mixology/partial_solution.py
+    LOC: 216
+    LLOC: 113
+    SLOC: 122
+    Comments: 21
+    Single comments: 21
+    Multi: 29
+    Blank: 44
+    - Comment Stats
+        (C % L): 10%
+        (C % S): 17%
+        (C + M % L): 23%
+poetry/src/poetry/mixology/__init__.py
+    LOC: 18
+    LLOC: 10
+    SLOC: 10
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 8
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/mixology/incompatibility_cause.py
+    LOC: 81
+    LLOC: 43
+    SLOC: 39
+    Comments: 0
+    Single comments: 0
+    Multi: 16
+    Blank: 26
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 20%
+poetry/src/poetry/mixology/term.py
+    LOC: 198
+    LLOC: 98
+    SLOC: 127
+    Comments: 19
+    Single comments: 15
+    Multi: 20
+    Blank: 36
+    - Comment Stats
+        (C % L): 10%
+        (C % S): 15%
+        (C + M % L): 20%
+poetry/src/poetry/mixology/incompatibility.py
+    LOC: 449
+    LLOC: 279
+    SLOC: 348
+    Comments: 11
+    Single comments: 9
+    Multi: 4
+    Blank: 88
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 3%
+        (C + M % L): 3%
+poetry/src/poetry/inspection/info.py
+    LOC: 551
+    LLOC: 296
+    SLOC: 342
+    Comments: 36
+    Single comments: 36
+    Multi: 75
+    Blank: 98
+    - Comment Stats
+        (C % L): 7%
+        (C % S): 11%
+        (C + M % L): 20%
+poetry/src/poetry/inspection/lazy_wheel.py
+    LOC: 746
+    LLOC: 374
+    SLOC: 406
+    Comments: 67
+    Single comments: 81
+    Multi: 124
+    Blank: 135
+    - Comment Stats
+        (C % L): 9%
+        (C % S): 17%
+        (C + M % L): 26%
+poetry/src/poetry/inspection/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/layouts/layout.py
+    LOC: 235
+    LLOC: 142
+    SLOC: 176
+    Comments: 7
+    Single comments: 7
+    Multi: 0
+    Blank: 52
+    - Comment Stats
+        (C % L): 3%
+        (C % S): 4%
+        (C + M % L): 3%
+poetry/src/poetry/layouts/src.py
+    LOC: 11
+    LLOC: 7
+    SLOC: 7
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 4
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/layouts/__init__.py
+    LOC: 14
+    LLOC: 9
+    SLOC: 8
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 6
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/utils/wheel.py
+    LOC: 47
+    LLOC: 28
+    SLOC: 30
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 17
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/utils/pip.py
+    LOC: 58
+    LLOC: 25
+    SLOC: 40
+    Comments: 4
+    Single comments: 4
+    Multi: 0
+    Blank: 14
+    - Comment Stats
+        (C % L): 7%
+        (C % S): 10%
+        (C + M % L): 7%
+poetry/src/poetry/utils/helpers.py
+    LOC: 426
+    LLOC: 254
+    SLOC: 316
+    Comments: 12
+    Single comments: 13
+    Multi: 6
+    Blank: 91
+    - Comment Stats
+        (C % L): 3%
+        (C % S): 4%
+        (C + M % L): 4%
+poetry/src/poetry/utils/threading.py
+    LOC: 69
+    LLOC: 36
+    SLOC: 36
+    Comments: 3
+    Single comments: 3
+    Multi: 12
+    Blank: 18
+    - Comment Stats
+        (C % L): 4%
+        (C % S): 8%
+        (C + M % L): 22%
+poetry/src/poetry/utils/_compat.py
+    LOC: 65
+    LLOC: 35
+    SLOC: 42
+    Comments: 2
+    Single comments: 2
+    Multi: 0
+    Blank: 21
+    - Comment Stats
+        (C % L): 3%
+        (C % S): 5%
+        (C + M % L): 3%
+poetry/src/poetry/utils/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/utils/authenticator.py
+    LOC: 469
+    LLOC: 285
+    SLOC: 359
+    Comments: 15
+    Single comments: 15
+    Multi: 0
+    Blank: 95
+    - Comment Stats
+        (C % L): 3%
+        (C % S): 4%
+        (C + M % L): 3%
+poetry/src/poetry/utils/cache.py
+    LOC: 340
+    LLOC: 197
+    SLOC: 222
+    Comments: 8
+    Single comments: 8
+    Multi: 39
+    Blank: 71
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 4%
+        (C + M % L): 14%
+poetry/src/poetry/utils/patterns.py
+    LOC: 19
+    LLOC: 4
+    SLOC: 15
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 4
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/utils/extras.py
+    LOC: 55
+    LLOC: 24
+    SLOC: 30
+    Comments: 4
+    Single comments: 4
+    Multi: 7
+    Blank: 14
+    - Comment Stats
+        (C % L): 7%
+        (C % S): 13%
+        (C + M % L): 20%
+poetry/src/poetry/utils/password_manager.py
+    LOC: 286
+    LLOC: 178
+    SLOC: 191
+    Comments: 8
+    Single comments: 8
+    Multi: 17
+    Blank: 70
+    - Comment Stats
+        (C % L): 3%
+        (C % S): 4%
+        (C + M % L): 9%
+poetry/src/poetry/utils/dependency_specification.py
+    LOC: 232
+    LLOC: 148
+    SLOC: 180
+    Comments: 1
+    Single comments: 1
+    Multi: 0
+    Blank: 51
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 1%
+        (C + M % L): 0%
+poetry/src/poetry/utils/constants.py
+    LOC: 12
+    LLOC: 5
+    SLOC: 5
+    Comments: 2
+    Single comments: 2
+    Multi: 0
+    Blank: 5
+    - Comment Stats
+        (C % L): 17%
+        (C % S): 40%
+        (C + M % L): 17%
+poetry/src/poetry/utils/isolated_build.py
+    LOC: 209
+    LLOC: 104
+    SLOC: 155
+    Comments: 11
+    Single comments: 11
+    Multi: 0
+    Blank: 43
+    - Comment Stats
+        (C % L): 5%
+        (C % S): 7%
+        (C + M % L): 5%
+poetry/src/poetry/utils/env/script_strings.py
+    LOC: 136
+    LLOC: 9
+    SLOC: 105
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 31
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/utils/env/system_env.py
+    LOC: 82
+    LLOC: 47
+    SLOC: 61
+    Comments: 1
+    Single comments: 0
+    Multi: 3
+    Blank: 18
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 2%
+        (C + M % L): 5%
+poetry/src/poetry/utils/env/mock_env.py
+    LOC: 78
+    LLOC: 49
+    SLOC: 62
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 16
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/utils/env/__init__.py
+    LOC: 109
+    LLOC: 47
+    SLOC: 84
+    Comments: 1
+    Single comments: 1
+    Multi: 7
+    Blank: 17
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 1%
+        (C + M % L): 7%
+poetry/src/poetry/utils/env/exceptions.py
+    LOC: 33
+    LLOC: 20
+    SLOC: 22
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 11
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/utils/env/generic_env.py
+    LOC: 102
+    LLOC: 63
+    SLOC: 75
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 27
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/utils/env/base_env.py
+    LOC: 498
+    LLOC: 322
+    SLOC: 338
+    Comments: 20
+    Single comments: 20
+    Multi: 37
+    Blank: 103
+    - Comment Stats
+        (C % L): 4%
+        (C % S): 6%
+        (C + M % L): 11%
+poetry/src/poetry/utils/env/null_env.py
+    LOC: 48
+    LLOC: 34
+    SLOC: 35
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 13
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/utils/env/env_manager.py
+    LOC: 628
+    LLOC: 361
+    SLOC: 431
+    Comments: 39
+    Single comments: 38
+    Multi: 35
+    Blank: 124
+    - Comment Stats
+        (C % L): 6%
+        (C % S): 9%
+        (C + M % L): 12%
+poetry/src/poetry/utils/env/site_packages.py
+    LOC: 235
+    LLOC: 124
+    SLOC: 192
+    Comments: 1
+    Single comments: 0
+    Multi: 0
+    Blank: 43
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 1%
+        (C + M % L): 0%
+poetry/src/poetry/utils/env/virtual_env.py
+    LOC: 169
+    LLOC: 103
+    SLOC: 119
+    Comments: 15
+    Single comments: 15
+    Multi: 3
+    Blank: 32
+    - Comment Stats
+        (C % L): 9%
+        (C % S): 13%
+        (C + M % L): 11%
+poetry/src/poetry/utils/env/python/manager.py
+    LOC: 310
+    LLOC: 161
+    SLOC: 212
+    Comments: 6
+    Single comments: 6
+    Multi: 37
+    Blank: 55
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 3%
+        (C + M % L): 14%
+poetry/src/poetry/utils/env/python/exceptions.py
+    LOC: 41
+    LLOC: 17
+    SLOC: 31
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 10
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/utils/env/python/installer.py
+    LOC: 113
+    LLOC: 56
+    SLOC: 87
+    Comments: 2
+    Single comments: 2
+    Multi: 0
+    Blank: 24
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 2%
+        (C + M % L): 2%
+poetry/src/poetry/utils/env/python/__init__.py
+    LOC: 6
+    LLOC: 3
+    SLOC: 3
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 3
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/utils/env/python/providers.py
+    LOC: 86
+    LLOC: 50
+    SLOC: 58
+    Comments: 13
+    Single comments: 11
+    Multi: 0
+    Blank: 17
+    - Comment Stats
+        (C % L): 15%
+        (C % S): 22%
+        (C + M % L): 15%
+poetry/src/poetry/toml/__init__.py
+    LOC: 7
+    LLOC: 4
+    SLOC: 4
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 3
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/toml/file.py
+    LOC: 37
+    LLOC: 24
+    SLOC: 24
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 13
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/toml/exceptions.py
+    LOC: 8
+    LLOC: 5
+    SLOC: 5
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 3
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/masonry/api.py
+    LOC: 16
+    LLOC: 7
+    SLOC: 13
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 3
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/masonry/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/masonry/builders/editable.py
+    LOC: 286
+    LLOC: 156
+    SLOC: 227
+    Comments: 3
+    Single comments: 3
+    Multi: 0
+    Blank: 56
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 1%
+        (C + M % L): 1%
+poetry/src/poetry/masonry/builders/__init__.py
+    LOC: 16
+    LLOC: 7
+    SLOC: 9
+    Comments: 1
+    Single comments: 1
+    Multi: 0
+    Blank: 6
+    - Comment Stats
+        (C % L): 6%
+        (C % S): 11%
+        (C + M % L): 6%
+poetry/src/poetry/packages/package_collection.py
+    LOC: 34
+    LLOC: 18
+    SLOC: 22
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 12
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/packages/direct_origin.py
+    LOC: 123
+    LLOC: 61
+    SLOC: 99
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 24
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/packages/transitive_package_info.py
+    LOC: 25
+    LLOC: 22
+    SLOC: 18
+    Comments: 2
+    Single comments: 0
+    Multi: 0
+    Blank: 7
+    - Comment Stats
+        (C % L): 8%
+        (C % S): 11%
+        (C + M % L): 8%
+poetry/src/poetry/packages/locker.py
+    LOC: 611
+    LLOC: 365
+    SLOC: 454
+    Comments: 36
+    Single comments: 35
+    Multi: 12
+    Blank: 110
+    - Comment Stats
+        (C % L): 6%
+        (C % S): 8%
+        (C + M % L): 8%
+poetry/src/poetry/packages/__init__.py
+    LOC: 8
+    LLOC: 5
+    SLOC: 5
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 3
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/packages/dependency_package.py
+    LOC: 49
+    LLOC: 34
+    SLOC: 33
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 16
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/plugins/plugin.py
+    LOC: 23
+    LLOC: 13
+    SLOC: 11
+    Comments: 0
+    Single comments: 0
+    Multi: 3
+    Blank: 9
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 13%
+poetry/src/poetry/plugins/base_plugin.py
+    LOC: 21
+    LLOC: 10
+    SLOC: 8
+    Comments: 0
+    Single comments: 0
+    Multi: 7
+    Blank: 6
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 33%
+poetry/src/poetry/plugins/__init__.py
+    LOC: 7
+    LLOC: 4
+    SLOC: 4
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 3
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/plugins/plugin_manager.py
+    LOC: 312
+    LLOC: 178
+    SLOC: 230
+    Comments: 24
+    Single comments: 22
+    Multi: 3
+    Blank: 57
+    - Comment Stats
+        (C % L): 8%
+        (C % S): 10%
+        (C + M % L): 9%
+poetry/src/poetry/plugins/application_plugin.py
+    LOC: 27
+    LLOC: 16
+    SLOC: 15
+    Comments: 0
+    Single comments: 0
+    Multi: 3
+    Blank: 9
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 11%
+poetry/src/poetry/config/config_source.py
+    LOC: 99
+    LLOC: 69
+    SLOC: 68
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 31
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/config/dict_config_source.py
+    LOC: 57
+    LLOC: 40
+    SLOC: 39
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 18
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/config/config.py
+    LOC: 432
+    LLOC: 255
+    SLOC: 319
+    Comments: 17
+    Single comments: 17
+    Multi: 3
+    Blank: 93
+    - Comment Stats
+        (C % L): 4%
+        (C % S): 5%
+        (C + M % L): 5%
+poetry/src/poetry/config/source.py
+    LOC: 44
+    LLOC: 29
+    SLOC: 33
+    Comments: 1
+    Single comments: 0
+    Multi: 0
+    Blank: 11
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 3%
+        (C + M % L): 2%
+poetry/src/poetry/config/file_config_source.py
+    LOC: 110
+    LLOC: 78
+    SLOC: 75
+    Comments: 2
+    Single comments: 2
+    Multi: 0
+    Blank: 33
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 3%
+        (C + M % L): 2%
+poetry/src/poetry/config/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/json/__init__.py
+    LOC: 37
+    LLOC: 20
+    SLOC: 26
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 11
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/pyproject/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/pyproject/toml.py
+    LOC: 62
+    LLOC: 40
+    SLOC: 38
+    Comments: 0
+    Single comments: 0
+    Multi: 6
+    Blank: 18
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 10%
+poetry/src/poetry/version/version_selector.py
+    LOC: 56
+    LLOC: 24
+    SLOC: 39
+    Comments: 1
+    Single comments: 1
+    Multi: 4
+    Blank: 12
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 3%
+        (C + M % L): 9%
+poetry/src/poetry/version/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/command_loader.py
+    LOC: 22
+    LLOC: 12
+    SLOC: 14
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 8
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/exceptions.py
+    LOC: 233
+    LLOC: 114
+    SLOC: 145
+    Comments: 0
+    Single comments: 0
+    Multi: 43
+    Blank: 45
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 18%
+poetry/src/poetry/console/application.py
+    LOC: 646
+    LLOC: 303
+    SLOC: 453
+    Comments: 47
+    Single comments: 40
+    Multi: 29
+    Blank: 124
+    - Comment Stats
+        (C % L): 7%
+        (C % S): 10%
+        (C + M % L): 12%
+poetry/src/poetry/console/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/events/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/events/console_events.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/logging/io_handler.py
+    LOC: 30
+    LLOC: 21
+    SLOC: 21
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 9
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/logging/filters.py
+    LOC: 6
+    LLOC: 3
+    SLOC: 3
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 3
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/logging/io_formatter.py
+    LOC: 72
+    LLOC: 44
+    SLOC: 49
+    Comments: 6
+    Single comments: 6
+    Multi: 0
+    Blank: 17
+    - Comment Stats
+        (C % L): 8%
+        (C % S): 12%
+        (C + M % L): 8%
+poetry/src/poetry/console/logging/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/logging/formatters/__init__.py
+    LOC: 10
+    LLOC: 4
+    SLOC: 7
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 3
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/logging/formatters/builder_formatter.py
+    LOC: 23
+    LLOC: 14
+    SLOC: 18
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 5
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/logging/formatters/formatter.py
+    LOC: 9
+    LLOC: 7
+    SLOC: 6
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 3
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/commands/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/commands/env_command.py
+    LOC: 25
+    LLOC: 16
+    SLOC: 15
+    Comments: 1
+    Single comments: 1
+    Multi: 0
+    Blank: 9
+    - Comment Stats
+        (C % L): 4%
+        (C % S): 7%
+        (C + M % L): 4%
+poetry/src/poetry/console/commands/group_command.py
+    LOC: 124
+    LLOC: 50
+    SLOC: 91
+    Comments: 1
+    Single comments: 1
+    Multi: 12
+    Blank: 20
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 1%
+        (C + M % L): 10%
+poetry/src/poetry/console/commands/check.py
+    LOC: 185
+    LLOC: 93
+    SLOC: 125
+    Comments: 9
+    Single comments: 11
+    Multi: 10
+    Blank: 39
+    - Comment Stats
+        (C % L): 5%
+        (C % S): 7%
+        (C + M % L): 10%
+poetry/src/poetry/console/commands/lock.py
+    LOC: 44
+    LLOC: 18
+    SLOC: 31
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 13
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/commands/command.py
+    LOC: 50
+    LLOC: 34
+    SLOC: 31
+    Comments: 0
+    Single comments: 0
+    Multi: 3
+    Blank: 16
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 6%
+poetry/src/poetry/console/commands/about.py
+    LOC: 27
+    LLOC: 9
+    SLOC: 18
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 9
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/commands/config.py
+    LOC: 430
+    LLOC: 245
+    SLOC: 329
+    Comments: 6
+    Single comments: 6
+    Multi: 0
+    Blank: 95
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 2%
+        (C + M % L): 1%
+poetry/src/poetry/console/commands/remove.py
+    LOC: 162
+    LLOC: 91
+    SLOC: 131
+    Comments: 3
+    Single comments: 3
+    Multi: 0
+    Blank: 28
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 2%
+        (C + M % L): 2%
+poetry/src/poetry/console/commands/show.py
+    LOC: 595
+    LLOC: 317
+    SLOC: 469
+    Comments: 13
+    Single comments: 13
+    Multi: 0
+    Blank: 113
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 3%
+        (C + M % L): 2%
+poetry/src/poetry/console/commands/update.py
+    LOC: 58
+    LLOC: 28
+    SLOC: 44
+    Comments: 1
+    Single comments: 1
+    Multi: 0
+    Blank: 13
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 2%
+        (C + M % L): 2%
+poetry/src/poetry/console/commands/add.py
+    LOC: 435
+    LLOC: 227
+    SLOC: 358
+    Comments: 10
+    Single comments: 10
+    Multi: 0
+    Blank: 67
+    - Comment Stats
+        (C % L): 2%
+        (C % S): 3%
+        (C + M % L): 2%
+poetry/src/poetry/console/commands/sync.py
+    LOC: 40
+    LLOC: 15
+    SLOC: 27
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 13
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/commands/publish.py
+    LOC: 111
+    LLOC: 37
+    SLOC: 85
+    Comments: 1
+    Single comments: 1
+    Multi: 0
+    Blank: 25
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 1%
+        (C + M % L): 1%
+poetry/src/poetry/console/commands/run.py
+    LOC: 99
+    LLOC: 55
+    SLOC: 64
+    Comments: 1
+    Single comments: 1
+    Multi: 8
+    Blank: 26
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 2%
+        (C + M % L): 9%
+poetry/src/poetry/console/commands/build.py
+    LOC: 251
+    LLOC: 108
+    SLOC: 194
+    Comments: 1
+    Single comments: 0
+    Multi: 10
+    Blank: 47
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 1%
+        (C + M % L): 4%
+poetry/src/poetry/console/commands/installer_command.py
+    LOC: 39
+    LLOC: 26
+    SLOC: 25
+    Comments: 1
+    Single comments: 1
+    Multi: 0
+    Blank: 13
+    - Comment Stats
+        (C % L): 3%
+        (C % S): 4%
+        (C + M % L): 3%
+poetry/src/poetry/console/commands/new.py
+    LOC: 91
+    LLOC: 28
+    SLOC: 74
+    Comments: 3
+    Single comments: 3
+    Multi: 0
+    Blank: 14
+    - Comment Stats
+        (C % L): 3%
+        (C % S): 4%
+        (C + M % L): 3%
+poetry/src/poetry/console/commands/install.py
+    LOC: 226
+    LLOC: 87
+    SLOC: 183
+    Comments: 8
+    Single comments: 8
+    Multi: 0
+    Blank: 35
+    - Comment Stats
+        (C % L): 4%
+        (C % S): 4%
+        (C + M % L): 4%
+poetry/src/poetry/console/commands/search.py
+    LOC: 59
+    LLOC: 31
+    SLOC: 43
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 16
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/commands/init.py
+    LOC: 535
+    LLOC: 279
+    SLOC: 419
+    Comments: 7
+    Single comments: 7
+    Multi: 0
+    Blank: 109
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 2%
+        (C + M % L): 1%
+poetry/src/poetry/console/commands/version.py
+    LOC: 125
+    LLOC: 75
+    SLOC: 105
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 20
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/commands/env/info.py
+    LOC: 90
+    LLOC: 43
+    SLOC: 69
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 21
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/commands/env/remove.py
+    LOC: 68
+    LLOC: 35
+    SLOC: 50
+    Comments: 4
+    Single comments: 4
+    Multi: 0
+    Blank: 14
+    - Comment Stats
+        (C % L): 6%
+        (C % S): 8%
+        (C + M % L): 6%
+poetry/src/poetry/console/commands/env/list.py
+    LOC: 41
+    LLOC: 25
+    SLOC: 26
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 15
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/commands/env/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/commands/env/use.py
+    LOC: 37
+    LLOC: 21
+    SLOC: 22
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 15
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/commands/env/activate.py
+    LOC: 70
+    LLOC: 50
+    SLOC: 51
+    Comments: 0
+    Single comments: 1
+    Multi: 0
+    Blank: 18
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/commands/source/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/commands/source/add.py
+    LOC: 119
+    LLOC: 72
+    SLOC: 96
+    Comments: 3
+    Single comments: 3
+    Multi: 0
+    Blank: 20
+    - Comment Stats
+        (C % L): 3%
+        (C % S): 3%
+        (C + M % L): 3%
+poetry/src/poetry/console/commands/source/remove.py
+    LOC: 50
+    LLOC: 30
+    SLOC: 36
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 14
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/commands/source/show.py
+    LOC: 78
+    LLOC: 47
+    SLOC: 59
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 19
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/commands/self/update.py
+    LOC: 67
+    LLOC: 36
+    SLOC: 54
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 13
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/commands/self/remove.py
+    LOC: 26
+    LLOC: 13
+    SLOC: 19
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 7
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/commands/self/self_command.py
+    LOC: 132
+    LLOC: 80
+    SLOC: 78
+    Comments: 13
+    Single comments: 11
+    Multi: 12
+    Blank: 31
+    - Comment Stats
+        (C % L): 10%
+        (C % S): 17%
+        (C + M % L): 19%
+poetry/src/poetry/console/commands/self/add.py
+    LOC: 47
+    LLOC: 22
+    SLOC: 35
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 12
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/commands/self/sync.py
+    LOC: 35
+    LLOC: 15
+    SLOC: 26
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 9
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/commands/self/lock.py
+    LOC: 17
+    LLOC: 7
+    SLOC: 13
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 4
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/commands/self/install.py
+    LOC: 41
+    LLOC: 20
+    SLOC: 30
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 11
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/commands/self/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/commands/self/show/__init__.py
+    LOC: 41
+    LLOC: 21
+    SLOC: 30
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 11
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/commands/self/show/plugins.py
+    LOC: 116
+    LLOC: 73
+    SLOC: 84
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 32
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/commands/debug/info.py
+    LOC: 28
+    LLOC: 16
+    SLOC: 21
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 7
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/commands/debug/resolve.py
+    LOC: 151
+    LLOC: 91
+    SLOC: 110
+    Comments: 2
+    Single comments: 2
+    Multi: 0
+    Blank: 39
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 2%
+        (C + M % L): 1%
+poetry/src/poetry/console/commands/debug/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/commands/debug/tags.py
+    LOC: 17
+    LLOC: 9
+    SLOC: 13
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 4
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/commands/cache/list.py
+    LOC: 21
+    LLOC: 16
+    SLOC: 16
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 5
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/commands/cache/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/commands/cache/clear.py
+    LOC: 90
+    LLOC: 57
+    SLOC: 66
+    Comments: 1
+    Single comments: 1
+    Multi: 0
+    Blank: 23
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 2%
+        (C + M % L): 1%
+poetry/src/poetry/console/commands/python/list.py
+    LOC: 128
+    LLOC: 61
+    SLOC: 103
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 25
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/commands/python/install.py
+    LOC: 128
+    LLOC: 72
+    SLOC: 105
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 23
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/commands/python/remove.py
+    LOC: 96
+    LLOC: 54
+    SLOC: 72
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 24
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/console/commands/python/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/vcs/__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/vcs/git/__init__.py
+    LOC: 6
+    LLOC: 3
+    SLOC: 3
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 3
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+poetry/src/poetry/vcs/git/system.py
+    LOC: 59
+    LLOC: 31
+    SLOC: 43
+    Comments: 0
+    Single comments: 0
+    Multi: 3
+    Blank: 13
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 5%
+poetry/src/poetry/vcs/git/backend.py
+    LOC: 556
+    LLOC: 300
+    SLOC: 402
+    Comments: 28
+    Single comments: 27
+    Multi: 37
+    Blank: 90
+    - Comment Stats
+        (C % L): 5%
+        (C % S): 7%
+        (C + M % L): 12%
