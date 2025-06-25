@@ -2,7 +2,7 @@
 
 """
     usage:
-        python3 orfeas_gkourlias_deelopdracht01.py --input your_file.fa.gz --num-runs 35
+        ./timer_script.py --input GCF_000005845.2_ASM584v2_genomic.fna.gz --num-runs 35
 """
 
 # METADATA VARIABLES
