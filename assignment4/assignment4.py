@@ -2,7 +2,7 @@
 
 """
     usage:
-        python3 orfeas_gkourlias_deelopdracht01.py
+        ./assignment4.py --input GCF_000005845.2_ASM584v2_genomic.fna.gz --w 10000
 """
 
 # METADATA VARIABLES
