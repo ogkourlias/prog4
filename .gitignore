@@ -178,3 +178,4 @@ output/
 *.gz
 *.fna
 *.csv
+.prog4
