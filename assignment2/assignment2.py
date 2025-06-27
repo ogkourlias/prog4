@@ -8,8 +8,8 @@
 
 # METADATA VARIABLES
 __author__ = "Orfeas Gkourlias"
-__status__ = "WIP"
-__version__ = "0.1"
+__status__ = "Production"
+__version__ = "1.0"
 
 # IMPORTS
 import sys
