@@ -16,8 +16,9 @@ from sklearn.neighbors import LocalOutlierFactor
 
 # CLASSES
 class MLM:
-    def __init__(self, df):
+    def __init__(self, df, threads):
         self.df = df
+        self.n_threads = threads
 
     def split(self):
         self.train_df = self.df[(self.df.index >= "2018-04-01") & (self.df.index < "2018-07-01")]
@@ -44,7 +45,7 @@ class MLM:
     def train(self):
         self.split()
         outliers_fraction, numerical_df = self.training_process()
-        alg = LocalOutlierFactor(novelty=True, contamination=outliers_fraction, n_jobs=-1)
+        alg = LocalOutlierFactor(novelty=True, contamination=outliers_fraction, n_jobs=self.n_threads)
         self.model = alg.fit(numerical_df)
         # self.test_df["LocalOutlierFactor"] = self.model.predict(self.test_df[self.numerical_cols])
         return self
