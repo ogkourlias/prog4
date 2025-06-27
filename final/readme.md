@@ -8,6 +8,7 @@ The goal of these modules is to do the following in order:
 3. Load the .csv file and use the trained model to predict anomaly scores for each sample. (File_handler and MLM module)
 4. Plot the anomaly identification in a user provided output directory for each sensor (Drawer module)
 5. Write the anomaly identifiers to a new .csv file in a use provided output directory (File_handler module)
+6. Log the files being handled to model.log
 
 ## Installation
 ```bash
