@@ -2,13 +2,13 @@
 
 """
     usage:
-        ./assignment4.py --input GCF_000005845.2_ASM584v2_genomic.fna.gz --w 10000
+        Import as module
 """
 
 # METADATA VARIABLES
 __author__ = "Orfeas Gkourlias"
-__status__ = "WIP"
-__version__ = "0.1"
+__status__ = "Production"
+__version__ = "1.0"
 
 # IMPORTS
 from sklearn.preprocessing import StandardScaler
@@ -17,6 +17,51 @@ from sklearn.neighbors import LocalOutlierFactor
 
 # CLASSES
 class MLM:
+    """
+    MLM class for anomaly detection using Local Outlier Factor (LOF) on time-indexed data.
+
+    Attributes:
+        df (pd.DataFrame): Input dataframe with time-indexed rows and a 'machine_status' column.
+        n_threads (int): Number of threads to use for parallel processing.
+        train_df (pd.DataFrame): Training subset of the data.
+        test_df (pd.DataFrame): Testing subset of the data.
+        numerical_cols (pd.Index): Columns containing numerical features.
+        model (LocalOutlierFactor): Trained LOF model.
+
+    Methods:
+        split():
+            Splits the dataframe into training and testing sets based on date ranges.
+
+        training_process():
+            Preprocesses the training and testing data:
+                - Identifies numerical columns.
+                - Filters normal machine status rows.
+                - Standardizes numerical features.
+                - Calculates the fraction of outliers.
+            Returns:
+                outliers_fraction (float): Estimated fraction of outliers in the training set.
+                numerical_df (pd.DataFrame): Standardized numerical features of the training set.
+
+        train():
+            Runs the full training pipeline:
+                - Splits the data.
+                - Preprocesses and standardizes features.
+                - Trains the LOF model.
+            Returns:
+                self (MLM): The fitted MLM instance.
+
+        predict_df(df):
+            Predicts outliers in a given dataframe using the trained LOF model.
+            Args:
+                df (pd.DataFrame): Dataframe to predict on.
+            Returns:
+                pd.DataFrame: Dataframe with an added 'LocalOutlierFactor' prediction column.
+
+        run():
+            Executes the training pipeline.
+            Returns:
+                self (MLM): The fitted MLM instance.
+    """
     def __init__(self, df, threads):
         self.df = df
         self.n_threads = threads

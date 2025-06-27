@@ -2,13 +2,13 @@
 
 """
     usage:
-        ./assignment4.py --input GCF_000005845.2_ASM584v2_genomic.fna.gz --w 10000
+        python3 final.py -i input_dir -o output_dir -t train_file.csv -n num_threads
 """
 
 # METADATA VARIABLES
 __author__ = "Orfeas Gkourlias"
-__status__ = "WIP"
-__version__ = "0.1"
+__status__ = "Production"
+__version__ = "0.1.0"
 
 # IMPORTS
 import os

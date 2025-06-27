@@ -1,9 +1,39 @@
+#!/usr/bin/env python3
+
+"""
+    usage:
+        Import as module
+"""
+
+# METADATA VARIABLES
+__author__ = "Orfeas Gkourlias"
+__status__ = "Production"
+__version__ = "1.0"
+
 import os
 import matplotlib.pyplot as plt
 import multiprocessing as mp
 
-
 class Drawer:
+    """
+    Drawer is a class for generating and saving plots of sensor data with machine status and anomaly annotations.
+
+    Attributes:
+        df (pandas.DataFrame): The input DataFrame containing sensor data and status columns.
+        img_dir (str): Directory where generated images will be saved.
+
+    Methods:
+        __init__(df, img_dir="img"):
+            Initializes the Drawer with a DataFrame and image directory.
+
+        worker(sensor, df, img_dir, completed_list):
+            Generates and saves a plot for a single sensor, highlighting "BROKEN", "RECOVERING", and anomaly points.
+            Appends the sensor name to completed_list upon successful completion.
+
+        run():
+            Spawns a separate process for each sensor column to generate plots in parallel.
+            Waits for all processes to complete and prints the list of completed sensors.
+    """
     def __init__(self, df, img_dir="img"):
         self.df = df
         self.img_dir = img_dir

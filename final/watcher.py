@@ -1,3 +1,15 @@
+#!/usr/bin/env python3
+
+"""
+    usage:
+        Import as module
+"""
+
+# METADATA VARIABLES
+__author__ = "Orfeas Gkourlias"
+__status__ = "Production"
+__version__ = "1.0"
+
 import os
 import time
 import logging
@@ -6,6 +18,24 @@ from file_handler import FileHandler
 
 
 class Watcher:
+    """
+    Watcher monitors a specified input directory for new CSV files, processes them using a provided model,
+    generates visualizations, and writes the results to an output directory.
+
+    Attributes:
+        model: An object with a `predict_df` method for making predictions on DataFrames.
+        input_dir (str): Path to the directory to monitor for new CSV files.
+        output_dir (str): Path to the directory where output files and images will be saved.
+        log_file (str): Path to the log file for recording events (default: "model.log").
+        polling_interval (int): Time interval in seconds between directory scans (default: 5).
+        img_dir (str): Path to the directory where generated images will be saved.
+        logger (logging.Logger): Logger instance for recording events.
+
+    Methods:
+        run():
+            Continuously monitors the input directory for new CSV files, processes each file only once,
+            applies the model's prediction, generates visualizations, saves the results, and logs actions.
+    """
     def __init__(
         self, model, input_dir, output_dir, log_file="model.log", polling_interval=5
     ):
