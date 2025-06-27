@@ -1,14 +1,17 @@
 #!/usr/bin/env python3
 
 """
-    usage:
-        ./timer_script.py --input GCF_000005845.2_ASM584v2_genomic.fna.gz --num-runs 35
+Benchmark script to compare GC content counting using single-core and multiprocessing.
+Runs both methods multiple times with random window sizes.
+
+Usage:
+    ./timer_script.py --input GCF_000005845.2_ASM584v2_genomic.fna.gz --num-runs 35
 """
 
 # METADATA VARIABLES
 __author__ = "Orfeas Gkourlias"
-__status__ = "WIP"
-__version__ = "0.3"
+__status__ = "Production"
+__version__ = "1.0"
 
 # IMPORTS
 import sys
@@ -21,6 +24,9 @@ from assignment4 import Counter, Counter_single_core
 
 
 def time_run(runner):
+    """
+    Measure how long it takes to run the given runner object.
+    """
     start = time.time()
     runner.run()
     end = time.time()
@@ -28,9 +34,13 @@ def time_run(runner):
 
 
 def main():
+    """
+    Run multiple benchmarks with random window sizes.
+    Compare single-core and multiprocessing runtimes.
+    """
     parser = argparse.ArgumentParser()
-    parser.add_argument("--input", required=True, type=pathlib.Path)
-    parser.add_argument("--num-runs", required=True, type=int)
+    parser.add_argument("--input", required=True, type=pathlib.Path, help="Input gzipped FASTA file")
+    parser.add_argument("--num-runs", required=True, type=int, help="Number of times to run each method")
     args = parser.parse_args()
 
     solo_times = []
@@ -38,7 +48,7 @@ def main():
     window_sizes = []
 
     for _ in range(args.num_runs):
-        w = random.randint(50, 1400)
+        w = random.randint(50, 1400)  # Choose a random window size
         window_sizes.append(w)
 
         solo = Counter_single_core(args.input, w)
@@ -50,6 +60,7 @@ def main():
         solo_times.append(solo_t)
         mp_times.append(mp_t)
 
+    # Print results
     print("\nWindow sizes:")
     print(window_sizes)
 
