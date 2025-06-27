@@ -203,6 +203,5 @@ def main(args):
             print("\n=== That is not a valid choice.")
 
 
-# Entry point
 if __name__ == "__main__":
     sys.exit(main(sys.argv))
