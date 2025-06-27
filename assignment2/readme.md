@@ -4,9 +4,6 @@ This assignment consists of one python module, assignment2.py.
 The module contains very basic atom, molecule and chroloplast classes.
 
 ## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
 ```bash
 pip install -r requirements.txt
 ```
