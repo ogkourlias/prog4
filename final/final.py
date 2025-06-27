@@ -18,7 +18,9 @@ from file_handler import FileHandler
 from mlm import MLM
 from watcher import Watcher
 import pandas as pd
+
 pd.options.mode.chained_assignment = None  # default="warn"
+
 
 def argparser():
     parser = argparse.ArgumentParser()
@@ -28,6 +30,7 @@ def argparser():
     parser.add_argument("--num-threads", "-n", default=1, type=int)
     return parser.parse_args()
 
+
 def main():
     args = argparser()
     os.environ["OPENBLAS_NUM_THREADS"] = args.num_threads
@@ -35,5 +38,6 @@ def main():
     model = MLM(df, args.num_threads).run()
     Watcher(model, args.input, args.output).run()
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     main()

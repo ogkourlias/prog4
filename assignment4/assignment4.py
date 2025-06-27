@@ -17,6 +17,7 @@ import pathlib
 import multiprocessing as mp
 import time
 
+
 # CLASSES
 class Counter:
     def __init__(self, input_file, window_size):
@@ -35,11 +36,11 @@ class Counter:
                 buffer += line
                 total_len += len(line)
                 while len(buffer) >= self.window_size:
-                    chunk = buffer[:self.window_size]
+                    chunk = buffer[: self.window_size]
                     start = total_len - len(buffer)
                     end = start + len(chunk)
                     self.queue.put((chunk, start, end))
-                    buffer = buffer[self.window_size:]
+                    buffer = buffer[self.window_size :]
             if buffer:
                 self.queue.put((buffer, total_len - len(buffer), total_len))
 
@@ -50,7 +51,7 @@ class Counter:
                 break
             gc_count = sum(1 for nuc in chunk[0] if nuc in "GCgc")
             gc_content = gc_count / len(chunk[0])
-            print(f'{chunk[1]} - {chunk[2]}: {gc_content:.2%}')
+            print(f"{chunk[1]} - {chunk[2]}: {gc_content:.2%}")
 
     def run(self):
         proc = mp.Process(target=self.worker, args=(self.queue,))
@@ -58,6 +59,7 @@ class Counter:
         self.read_fasta()
         self.queue.put((None, None, None))
         proc.join()
+
 
 class Counter_single_core:
     def __init__(self, input_file, window_size):
@@ -75,34 +77,36 @@ class Counter_single_core:
                 buffer += line
                 total_len += len(line)
                 while len(buffer) >= self.window_size:
-                    chunk = buffer[:self.window_size]
+                    chunk = buffer[: self.window_size]
                     start = total_len - len(buffer)
                     end = start + len(chunk)
                     self.process_chunk(chunk, start, end)
-                    buffer = buffer[self.window_size:]
+                    buffer = buffer[self.window_size :]
             if buffer:
                 self.process_chunk(buffer, total_len - len(buffer), total_len)
 
     def process_chunk(self, seq, start, end):
         gc_count = sum(1 for nuc in seq if nuc in "GCgc")
         gc_content = gc_count / len(seq)
-        print(f'{start} - {end}: {gc_content:.2%}')
+        print(f"{start} - {end}: {gc_content:.2%}")
 
     def run(self):
         self.read_fasta()
+
 
 def time_run(name, runner):
     start = time.time()
     runner.run()
     end = time.time()
-    return (f"{name} version took {end - start:.4f} seconds")
+    return f"{name} version took {end - start:.4f} seconds"
+
 
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--input", required=True, type=pathlib.Path)
     parser.add_argument("--w", dest="window_size", required=True, type=int)
     args = parser.parse_args()
-    
+
     solo = Counter_single_core(args.input, args.window_size)
     solo_time = time_run("Solo process", solo)
 
@@ -111,5 +115,7 @@ def main():
 
     print(solo_time)
     print(mp_time)
-if __name__ == '__main__':
+
+
+if __name__ == "__main__":
     main()

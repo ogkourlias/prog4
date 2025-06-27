@@ -4,8 +4,11 @@ import logging
 from drawer import Drawer
 from file_handler import FileHandler
 
+
 class Watcher:
-    def __init__(self, model, input_dir, output_dir, log_file="model.log", polling_interval=5):
+    def __init__(
+        self, model, input_dir, output_dir, log_file="model.log", polling_interval=5
+    ):
         self.model = model
         self.polling_interval = polling_interval
         self.input_dir = input_dir
@@ -13,13 +16,13 @@ class Watcher:
         self.img_dir = f"{self.output_dir}/img"
 
         os.makedirs(self.output_dir, exist_ok=True)
-        os.makedirs(self.img_dir , exist_ok=True)
+        os.makedirs(self.img_dir, exist_ok=True)
 
         logging.basicConfig(
             filename=log_file,
             level=logging.INFO,
-            format='%(asctime)s  %(message)s',
-            datefmt='%Y-%m-%d %H:%M:%S'
+            format="%(asctime)s  %(message)s",
+            datefmt="%Y-%m-%d %H:%M:%S",
         )
         self.logger = logging.getLogger(__name__)
 
@@ -37,4 +40,3 @@ class Watcher:
                     FileHandler(f"{self.output_dir}/{filename}-predicted").write_csv(df)
                     finished_tracker.add(filename)
             time.sleep(self.polling_interval)
-

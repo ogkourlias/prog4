@@ -19,11 +19,13 @@ import time
 import random
 from assignment4 import Counter, Counter_single_core
 
+
 def time_run(runner):
     start = time.time()
     runner.run()
     end = time.time()
     return end - start
+
 
 def main():
     parser = argparse.ArgumentParser()
@@ -61,5 +63,6 @@ def main():
     print(f"Solo: {sum(solo_times) / len(solo_times):.4f} seconds")
     print(f"MP:   {sum(mp_times) / len(mp_times):.4f} seconds")
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     main()
