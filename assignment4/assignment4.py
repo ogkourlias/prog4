@@ -11,7 +11,6 @@ __status__ = "WIP"
 __version__ = "0.1"
 
 # IMPORTS
-import sys
 import argparse
 import gzip
 import pathlib
