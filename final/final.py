@@ -12,6 +12,7 @@ __version__ = "0.1"
 
 # IMPORTS
 import os
+# os.environ["OPENBLAS_NUM_THREADS"] = str(1)
 import argparse
 import pathlib
 from file_handler import FileHandler
@@ -33,7 +34,6 @@ def argparser():
 
 def main():
     args = argparser()
-    os.environ["OPENBLAS_NUM_THREADS"] = args.num_threads
     df = FileHandler(args.trainfile).run()
     model = MLM(df, args.num_threads).run()
     Watcher(model, args.input, args.output).run()
