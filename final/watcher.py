@@ -10,13 +10,14 @@ __author__ = "Orfeas Gkourlias"
 __status__ = "Production"
 __version__ = "1.0"
 
+# IMPORTS
 import os
 import time
 import logging
 from drawer import Drawer
 from file_handler import FileHandler
 
-
+# CLASSES
 class Watcher:
     """
     Watcher monitors a specified input directory for new CSV files, processes them using a provided model,

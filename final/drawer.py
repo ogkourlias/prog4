@@ -10,10 +10,12 @@ __author__ = "Orfeas Gkourlias"
 __status__ = "Production"
 __version__ = "1.0"
 
+# IMPORTS
 import os
 import matplotlib.pyplot as plt
 import multiprocessing as mp
 
+# CLASSES
 class Drawer:
     """
     Drawer is a class for generating and saving plots of sensor data with machine status and anomaly annotations.
